@@ -1,3 +1,7 @@
+<script type="text/javascript">
+var i = 1;
+</script>
+
 # config
 
 java配置
