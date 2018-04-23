@@ -21,9 +21,10 @@ Path变量 最后添加 %M2_HOME%\bin
 ``<localRepository>D:\java\apache-maven-3.3.9\repo</localRepository>``
 
 阿里云线上仓库
+
 <mirrors>
 
-	  <mirror>
+<mirror>
 
     <id>alimaven</id>
 
@@ -35,5 +36,5 @@ Path变量 最后添加 %M2_HOME%\bin
 
 </mirror>
 
-  </mirrors>
+</mirrors>
 
