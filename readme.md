@@ -13,15 +13,15 @@ Path变量 最后添加 %JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
 
 maven目录 conf/settings.xml
 
-设定本地maven仓库 <localRepository>D:\java\apache-maven-3.3.9\repo</localRepository>
+设定本地maven仓库 ``<localRepository>D:\java\apache-maven-3.3.9\repo</localRepository>``
 
 阿里云线上仓库
- <mirrors>
+ ``<mirrors>
 	  <mirror>
     <id>alimaven</id>
     <name>aliyun maven</name>
     <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
     <mirrorOf>central</mirrorOf>
 </mirror>
-  </mirrors>
+  </mirrors>``
 
