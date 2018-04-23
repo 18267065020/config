@@ -47,11 +47,11 @@ maven目录 conf/settings.xml 设定本地maven仓库
 
 pom.xml配置
 
-  <parent>
+    <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>1.5.9.RELEASE</version>
-  </parent>
+    </parent>
 
       <dependency>
         <groupId>org.springframework.boot</groupId>
