@@ -1,10 +1,6 @@
-<script type="text/javascript">
-var i = 1;
-</script>
-
 # config
 
-java配置
+###java配置
 
 java jdk下载官网：[java jdk](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"}
 
