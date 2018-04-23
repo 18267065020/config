@@ -47,6 +47,8 @@ maven目录 conf/settings.xml 设定本地maven仓库
 
 pom.xml配置
 
+注：parent中的版本号是spring boot的版本号，需要不同版本的spring boot更换版本号
+
     <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
