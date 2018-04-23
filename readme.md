@@ -20,9 +20,9 @@ maven目录 conf/settings.xml 设定本地maven仓库
 
 阿里云线上仓库
 
-``<mirrors>
+    <mirrors>
 
-<mirror>
+    <mirror>
 
     <id>alimaven</id>
 
@@ -32,7 +32,7 @@ maven目录 conf/settings.xml 设定本地maven仓库
 
     <mirrorOf>central</mirrorOf>
 
-</mirror>
+    </mirror>
 
-</mirrors>``
+    </mirrors>``
 
