@@ -5,10 +5,13 @@
 
 1、官方安装文档
 http://dev.mysql.com/doc/mysql-yum-repo-quick-guide/en/
+
 2、下载 Mysql yum包
 wget http://repo.mysql.com/mysql57-community-release-el7-10.noarch.rpm
+
 3、安转软件源
 rpm -Uvh mysql57-community-release-el7-10.noarch.rpm
+
 4、安装mysql服务端
 yum install  -y  mysql-community-server
 5、首先启动mysql
