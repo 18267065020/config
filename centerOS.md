@@ -82,7 +82,7 @@ ALTER USER 'root'@'localhost' IDENTIFIED BY 'root123';（ALTER等可以写成小
 
 8、授权其他机器登陆
 
-GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY 'yourpassword' WITH GRANT OPTION;
+ GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY 'xlsys@database' WITH GRANT OPTION;
 
 FLUSH  PRIVILEGES;
 
